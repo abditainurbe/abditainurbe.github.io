@@ -4,7 +4,7 @@ collection: talks
 type: "Expository talk"
 permalink: /talks/2020-11-06-perfectoid-ring-2
 venue: "Student Arithmetic Geometry Reading Seminar, University of Minnesota"
-date: 2013-03-01
+date: 2020-11-06
 location: "Zoom"
 ---
 
