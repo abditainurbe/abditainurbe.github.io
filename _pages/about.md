@@ -16,7 +16,7 @@ I work on algebraic geometry and arithmetic geometry. More specifically, I'm int
 *. Geometry of algebraic surfaces, especially K3 surfaces.
 *. Rational points on curves and surfaces.
 
-In summer 2019, I received my Bachelor's degree in Mathematics from University of Chinese Academy of Sciences supervised by Baohua Fu.
+In summer 2019, I received my Bachelor's degree in Mathematics from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) supervised by [Baohua Fu](http://www.mcm.ac.cn/faculty/fbh/201805/t20180528_408541.html).
 
 
 Updates
