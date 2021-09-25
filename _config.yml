@@ -85,7 +85,7 @@ author:
   bio              : "Math PhD @ UW-Madison"
   location         : "Madison, WI, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wei83@wisc.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
