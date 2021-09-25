@@ -12,9 +12,9 @@ My name is Peter YI WEI (Chinese: 韋禕). Currently I am a third year PhD stude
 
 I work on algebraic geometry and arithmetic geometry. More specifically, I'm interested in the following:
 
-1. Geometry of syzygies of curves.
-1. Geometry of algebraic surfaces, especially K3 surfaces.
-1. Rational points on curves and surfaces.
+*. Geometry of syzygies of curves.
+*. Geometry of algebraic surfaces, especially K3 surfaces.
+*. Rational points on curves and surfaces.
 
 In summer 2019, I received my Bachelor's degree in Mathematics from University of Chinese Academy of Sciences supervised by Baohua Fu.
 
