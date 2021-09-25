@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hidden in the City"
 title_separator          : "-"
-name                     : &name "Yi Wei"
+name                     : &name "Peter YI WEI"
 description              : &description "un pèlerin aux mathématiques"
 url                      : https://abditainurbe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
