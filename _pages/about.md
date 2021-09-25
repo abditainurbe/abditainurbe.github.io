@@ -25,7 +25,7 @@ Updates
 Contact
 ------
 
-316 Van Vleck Hall 
-480 Lincoln Drive 
+316 Van Vleck Hall    
+480 Lincoln Drive     
 Madison, WI 53706    
 Email: wei83@wisc.edu
